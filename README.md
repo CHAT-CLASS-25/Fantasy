@@ -22,3 +22,4 @@ AND
 
 If we want to just write to each other in here, I think we could if I remembeer to look at it regularly. 
   
+"spells you can't use" isnt a typo. someone gives you the spell, you cant use it, you REVEIW INFO, find a magician, and give them a spell in return for something
