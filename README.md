@@ -2,7 +2,7 @@
 
 # Starlit Adventure
   
-## A text-base game set in a fantasy world with elves, dragons, fairies, and more. You start in an unfamiliar location next to a sleeping dragon and end by placing the Skydrop on a pedestal in the Sha dowforceMystery Forest.
+## A text-base game set in a fantasy world with elves, dragons, fairies, and more. You start in an unfamiliar location next to a sleeping dragon and end by placing the Skydrop on a pedestal in the Shadowforce Mystery Forest.
   
 __On the way, you will collect:__
 - Armor (goblin-made, dwarf-made, elf-made, and the legendary Lightstone Armor)
