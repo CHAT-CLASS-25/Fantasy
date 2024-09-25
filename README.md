@@ -25,6 +25,8 @@ If we want to just write to each other in here, I think we could if I remembeer 
 "spells you can't use" isnt a typo. someone gives you the spell, you cant use it, you REVEIW INFO, find a magician, and give them a spell in return for something
 we can probably scrap the fighting portion, but we will still need a few swords or daggers for collecting dragon scales and mining and maybe also the grappling hook
 
+
 at the end of a narrative/ dialogue, you type in a word/ phrase in all caps. i put a list of commands to use in the stashpad. if a command isnt in all caps, it will fail
+
 
 i can probably get the first few choices written down (on paper) and you can reveiw them on Thursday
