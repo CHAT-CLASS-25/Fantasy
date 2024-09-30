@@ -20,5 +20,5 @@ AND
 -  What will the player decisions look like? will they be multiple choice questions or something else?
 - I also think we probably should eventually write some narative and diolouge. Bc won't that be the base of the game? I think this game will take a lot of creativity. I'm excited about that. 
 
-If we want to just write to each other in here, I think we could if I remembeer to look at it regularly. 
+If we want to just write to each other in here, I think we could if I remember to look at it regularly. 
   
